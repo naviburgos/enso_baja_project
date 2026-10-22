@@ -3,15 +3,11 @@
 Este repositorio es el punto de partida para el proyecto final del minicurso
 **Introducción a herramientas computacionales para Oceanografía Física**.
 
-<!--
-Reemplaza el título de arriba por un título que describa tu propio proyecto.
--->
+<CURSO
 
 ## Pregunta
 
-<!--
-Escribe aquí una pregunta concreta que puedas explorar con los datos disponibles.
-
+<---
 Ejemplos:
 - ¿Cómo cambia la SST frente a Baja California durante eventos El Niño y La Niña?
 - ¿Cómo se comporta la precipitación en Ensenada durante distintas fases de ENSO?
