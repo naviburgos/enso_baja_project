@@ -63,7 +63,7 @@ Después escribe 2–4 frases distinguiendo:
 2. tu interpretación.
 -->
 
-_Resume aquí tus resultados principales._
+_Resume aquí tus resultados._
 
 ## Cómo reproducir el análisis
 
