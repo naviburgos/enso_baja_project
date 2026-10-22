@@ -63,7 +63,7 @@ Después escribe 2–4 frases distinguiendo:
 2. tu interpretación.
 -->
 
-Que arda Troya.
+_Resume aquí tus resultados._
 
 ## Cómo reproducir el análisis
 
